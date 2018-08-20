@@ -1,0 +1,7 @@
+nengi.js license
+
+Copyright (c) 2015-2018 Alex Bennett, timetocode LLC
+
+All rights reserved.
+
+Obtain a license for nengi.js at http://timetocode.com/nengi

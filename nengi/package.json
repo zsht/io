@@ -1,0 +1,28 @@
+{
+  "name": "nengi",
+  "version": "0.3.3",
+  "description": "a networking layer for games, sends full binary snapshots of game state",
+  "main": "indexNode.js",
+  "browser": "indexBrowser.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": [
+    "multiplayer",
+    "networking",
+    "lag",
+    "compensation",
+    "prediction",
+    "binary",
+    "compression"
+  ],
+  "author": "Alex Bennett // timetocode",
+  "license": "see LICENSE.txt",
+  "dependencies": {
+    "websocket": "1.0.23",
+    "babel-preset-latest": "^6.16.0"
+  },
+  "devDependencies": {
+    "babel-preset-latest": "^6.16.0"
+  }
+}
